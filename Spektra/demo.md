@@ -12,3 +12,4 @@ abc <br> efg
 
 1. welcome
 
+    ![](../Spektra/media/gs3.png)
